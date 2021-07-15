@@ -1,0 +1,12 @@
+*{margin: auto;padding: 0;}
+html{background-color: black}
+header{width: 1000px;height: 200px;}
+section#logo{float: left;width: 200px;height: 200px}
+section#banner{float: left; width: 800px;height: 200px}
+nav{background-color: grey;width: 1000px;height: 50px;}
+section#links{float: left;}
+main{width: 1000px;height: 500px;}
+section#article{width: 700px;height: 500px;background-color: lightblue;float: left;}
+section#aside{width: 300px;height: 500px;background-color: black;float: left;}
+footer{background-color: magenta; width: 1000px;height: 50px;}
+a{margin-right: 15px;}
